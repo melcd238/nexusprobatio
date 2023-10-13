@@ -1,0 +1,147 @@
+    {
+      "startups": [
+      {
+        "id": "1",
+        "name": "TechSolutions Inc.",
+        "description": "Spécialisée dans les solutions IoT pour la maison intelligente.",
+        "logoUrl": "https://via.placeholder.com/150",
+        "contactEmail": "contact@techsolutions.com",
+        "website": "https://techsolutions.com",
+        "location": "Paris, France",
+        "testDuration": "3 semaines",
+        "platforms": ["iOS", "Web"],
+        "testType": "bêta",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/company/techsolutions",
+          "twitter": "https://twitter.com/techsolutions"
+        },
+        "isActive": true,
+        "requiredExperience": "Familiarité avec les appareils IoT",
+        "preferredDemographics": "Tous les âges",
+        "postedOn": "2023-01-10",
+        "deadline": "2023-01-31",
+        "languages": ["Français", "Anglais"],
+        "ndaRequired": true,
+        "feedbackMethod": "Formulaire en ligne",
+        "positionsAvailable": 10,
+        "searchCriteria": "Testeurs avec des appareils IoT à domicile.",
+        "compensation": "100€",
+        "expectedFeedback": "Expérience utilisateur, détection de bugs, suggestions d'améliorations."
+      },
+      {
+        "id": "2",
+        "name": "HealthTrack Ltd.",
+        "description": "Start-up dans le domaine de la santé proposant une application de suivi de la condition physique.",
+        "logoUrl": "https://via.placeholder.com/150",
+        "contactEmail": "info@healthtrack.com",
+        "website": "https://healthtrack.com",
+        "location": "Marseille, France",
+        "testDuration": "4 semaines",
+        "platforms": ["Android", "iOS"],
+        "testType": "bêta",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/company/healthtrack",
+          "facebook": "https://facebook.com/healthtrack"
+        },
+        "isActive": true,
+        "requiredExperience": "Expérience en fitness",
+        "preferredDemographics": "20-50 ans",
+        "postedOn": "2023-01-15",
+        "deadline": "2023-02-15",
+        "languages": ["Français"],
+        "ndaRequired": false,
+        "feedbackMethod": "E-mail",
+        "positionsAvailable": 8,
+        "searchCriteria": "Testeurs réguliers de fitness.",
+        "compensation": "120€",
+        "expectedFeedback": "Facilité d'utilisation, précision des données."
+      },
+      {
+        "id": "3",
+        "name": "EcoDrive Co.",
+        "description": "Spécialisée dans les solutions logicielles pour voitures électriques.",
+        "logoUrl": "https://via.placeholder.com/150",
+        "contactEmail": "support@ecodrive.com",
+        "website": "https://ecodrive.com",
+        "location": "Lyon, France",
+        "testDuration": "2 semaines",
+        "platforms": ["Web", "Android"],
+        "testType": "alpha",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/company/ecodrive",
+          "twitter": "https://twitter.com/ecodrive"
+        },
+        "isActive": false,
+        "requiredExperience": "Propriétaires de voitures électriques",
+        "preferredDemographics": "25-60 ans",
+        "postedOn": "2023-01-05",
+        "deadline": "2023-02-05",
+        "languages": ["Français", "Anglais"],
+        "ndaRequired": true,
+        "feedbackMethod": "Appel téléphonique",
+        "positionsAvailable": 5,
+        "searchCriteria": "Testeurs avec une voiture électrique.",
+        "compensation": "150€ + bonus",
+        "expectedFeedback": "Expérience utilisateur, suggestions d'enrichissements."
+      },
+      {
+        "id": "4",
+        "name": "EdConnect Enterprises",
+        "description": "Plateforme d'apprentissage en ligne axée sur les compétences du 21ème siècle.",
+        "logoUrl": "https://via.placeholder.com/150",
+        "contactEmail": "learn@edconnect.com",
+        "website": "https://edconnect.com",
+        "location": "Bordeaux, France",
+        "testDuration": "1 mois",
+        "platforms": ["Web"],
+        "testType": "bêta",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/company/edconnect",
+          "facebook": "https://facebook.com/edconnect"
+        },
+        "isActive": true,
+        "requiredExperience": "Étudiants ou professionnels",
+        "preferredDemographics": "18-35 ans",
+        "postedOn": "2023-01-12",
+        "deadline": "2023-02-12",
+        "languages": ["Français", "Anglais", "Espagnol"],
+        "ndaRequired": false,
+        "feedbackMethod": "Enquête en ligne",
+        "positionsAvailable": 20,
+        "searchCriteria": "Étudiants et professionnels cherchant à améliorer leurs compétences.",
+        "compensation": "80€ + accès gratuit aux cours pour 3 mois",
+        "expectedFeedback": "Qualité du contenu, interactivité, suggestions."
+      },
+      {
+        "id": "4",
+        "name": "FinTech Finance",
+        "description": "Start-up dédiée à fournir des solutions de paiement sans friction.",
+        "logoUrl": "https://via.placeholder.com/150",
+        "contactEmail": "support@fintech-finance.com",
+        "website": "https://fintech-finance.com",
+        "location": "Toulouse, France",
+        "testDuration": "2 semaines",
+        "platforms": ["Android", "iOS", "Web"],
+        "testType": "alpha",
+        "socialLinks": {
+          "linkedin": "https://linkedin.com/company/fintech-finance",
+          "twitter": "https://twitter.com/fintechfinance"
+        },
+        "isActive": true,
+        "requiredExperience": "Utilisateurs fréquents de services bancaires en ligne",
+        "preferredDemographics": "Entre 18 et 60 ans",
+        "postedOn": "2023-01-18",
+        "deadline": "2023-02-18",
+        "languages": ["Français", "Anglais"],
+        "ndaRequired": true,
+        "feedbackMethod": "E-mail",
+        "positionsAvailable": 15,
+        "searchCriteria": "Personnes familiarisées avec les fintechs.",
+        "compensation": "110€ + abonnement premium pour 6 mois",
+        "expectedFeedback": "Ergonomie, sécurité, rapidité des transactions."
+      }
+    ]
+  }
+
+  
+  
